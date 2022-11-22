@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/explode_01.wav-2753f7afb3347e931abd17407d007f14.sample"
+
+[deps]
+
+source_file="res://assets/audio/sfx/explode_01.wav"
+dest_files=[ "res://.import/explode_01.wav-2753f7afb3347e931abd17407d007f14.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
